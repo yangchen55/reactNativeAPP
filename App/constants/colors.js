@@ -1,5 +1,7 @@
 export default {
+    white: "#fff",
+    border: "#E2E2E2",
     text: "#343434",
-    border: '#E2E2E2',
-    blue: "#4f6d7a"
+    blue: "#4F6D7A",
+    textLight: "#797979",
 }
